@@ -1,3 +1,3 @@
-#DojoWeather 
+DojoWeather 
 
-Basic webpage with HTML nad CSS. Includes a little bit of JS adding functions to buttons.
+Basic webpage with HTML and CSS. Includes a little bit of JS adding functions to buttons.
